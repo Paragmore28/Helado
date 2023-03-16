@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contact {
+	color: yellow;
+}
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background: black;
+	color: white;
+}
